@@ -1,7 +1,7 @@
 # **Sports Team Management System**
 
 ## 📌 **Project Overview**
-This project is a **web-based sports team management system** built using **PHP and MySQL** with a frontend developed in **HTML, CSS, and JavaScript**. It provides an intuitive interface for managing teams, players, matches, and rankings.
+This project is a **web-based sports team management system** built using **PHP, MySQL and XAMPP** with a frontend developed in **HTML, CSS, and JavaScript**. It provides an intuitive interface for managing teams, players, matches, and rankings.
 
 The system supports:
 - **Team and player registration**
@@ -21,7 +21,7 @@ The system supports:
 ---
 
 ## ⚙️ **Technologies Used**
-- **Backend:** PHP, MySQL
+- **Backend:** PHP, MySQL, XAMPP
 - **Frontend:** HTML, CSS, JavaScript
 - **Database Management:** MySQL with structured relational design
 - **Authentication:** PHP sessions with hashed passwords
